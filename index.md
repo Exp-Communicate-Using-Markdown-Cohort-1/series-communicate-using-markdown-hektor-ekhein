@@ -6,3 +6,10 @@
 ```
 print("Hello World!")
 ```
+
+- [x] Write blog entry about CodeTree
+- [x] Take 2 Kaggle courses
+- [x] Listen to Heat Transfer lecture
+- [ ] Read Heat Transfer textbook
+- [ ] Finish Github tutorial
+- [ ] Take MATLAB course
